@@ -6,9 +6,12 @@ In 1973 Wisconsin became the first state to enact such a law. 1 state has a 4ft 
 
 ## Gold Standards
 
-🌟 **Pennsylvania** *75 Pa.C.S. § 3303*	Pass to the left of the pedalcycle within not less than four (4) feet at a careful and prudent reduced speed.
+ **Pennsylvania** [*75 Pa.C.S. § 3303*](pa-law) Pass to the left of the pedalcycle within not less than four (4) feet at a careful and prudent reduced speed.
 
-🌟 **New Hampshire** *RSA 265:143-a* Leave a reasonable and prudent distance between the vehicle and the bicycle. The distance shall be presumed to be reasonable and prudent if it is at least three (3) feet when the vehicle is traveling at 30 miles per hour or less, with one additional foot of clearance required for every 10 miles per hour above 30 miles per hour. 
+ **New Hampshire** [*RSA 265:143-a*](nh-law) Leave a reasonable and prudent distance between the vehicle and the bicycle. The distance shall be presumed to be reasonable and prudent if it is at least three (3) feet when the vehicle is traveling at 30 miles per hour or less, with one additional foot of clearance required for every 10 miles per hour above 30 miles per hour. 
+
+[pa-law]: http://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=75&div=0&chpt=33&sctn=3&subsctn=0
+[nh-law]: http://www.gencourt.state.nh.us/rsa/html/XXI/265/265-143-a.htm
 
 ## New York
 
