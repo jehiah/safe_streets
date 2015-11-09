@@ -16,8 +16,8 @@ Have a specific idea, or context to add to an existing one? open a Pull Request.
 ## Proposals
 
 * [Safely Passing Bicycles](safely_passing_bicycles.md)
+* [Pedestrian Signals](pedestrian_signals.md)
 
 ## Cyclists With Cameras
 
-This is a citizen driven movement to bring attention to the TLC of illegal behaviour of TLC regulated drivers as an enforcement mechanisim to promote safe driving and make our streets safer. [Cyclists With Cameras](cyclists_with_cameras.md)
-
+This is a citizen driven movement to bring attention to the TLC of illegal behavior of TLC regulated drivers as an enforcement mechanism to promote safe driving and make our streets safer. [Cyclists With Cameras](cyclists_with_cameras.md)
