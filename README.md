@@ -16,3 +16,4 @@ Have a specific idea, or context to add to an existing one? open a Pull Request.
 ## Proposals
 
 * [Safely Passing Bicycles](safely_passing_bicycles.md)
+* [Pedestrian Signals](pedestrian_signals.md)
