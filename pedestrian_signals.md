@@ -10,8 +10,9 @@ This is important because it puts the burden of safety on pedestrians instead of
 
 Motorists & cyclists can enter intersection on a yellow signal, Pedestrians can only enter on white which puts undue safety burden on pedestrians. <sup>[src](https://twitter.com/BicyclesOnly/status/663504156041285633)</a>
 
-If at an intersection w/clock, pedestrian must get past median + 1/2 way to far curb on white, or wait @ median for the next white. This means many intersections take multiple signal cycles to cross legally. <sup>[src](https://twitter.com/BicyclesOnly/status/663507440823046145)</sup>
+If at an intersection w/clock, pedestrian must get past median + 1/2 way to far curb on white, or wait at median for the next signal cycle. This means many intersections take multiple signal cycles to cross legally. <sup>[src](https://twitter.com/BicyclesOnly/status/663507440823046145)</sup>
+
 
 ### Proposed Changes
 
-* [Int 0997-2015](http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=2513767&GUID=A9FE4C8E-FFBC-46D5-B03B-B27234A248A5) - This legislation would provide the right of way to pedestrians crossing from a median when a numerical countdown clock has already begun to count down.
+* [Int 0997-2015](http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=2513767&GUID=A9FE4C8E-FFBC-46D5-B03B-B27234A248A5) - This legislation would provide the right of way to pedestrians crossing from a median when a numerical countdown clock has already begun to count down. Introduced by NYC Public Advocate [Letitia James](https://twitter.com/TishJames) 
