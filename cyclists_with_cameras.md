@@ -20,13 +20,19 @@ for violating the traffic law. (1) Laws, rules or regulations governing stationa
 
 ## Traffic Regulations
 
-Common Laws Referenced:
+Common Laws Referenced: http://www.nyc.gov/html/dot/downloads/pdf/trafrule.pdf
 
-* 4-08(e)(9) - No person shall stop, stand, or park a vehicle Within a designated bicycle lane. - http://www.nyc.gov/html/dot/downloads/pdf/trafrule.pdf
+* 4-08(e)(9) - No person shall stop, stand, or park a vehicle Within a designated bicycle lane. - (no stopping in bike lane) 
+* 4-05(b)(1) - The operator of any vehicle shall not make a U-turn upon any street in a business district (no u-turns in business district)
+* 4-08(e)(3) - General no stopping zones - sidewalks - (no parking on sidewalks)
 
-* https://www.nyu.edu/sustainability/campus.projects/bike.share/resources.php?r=nyclaws
+Other indexes of applicable laws:
 
-FHV driver stopped in bike lane, dangerously forcing bikers into traffic lane, in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 55-13(a)(1). (Pictures available)
+* http://www.nyu.edu/life/sustainability/areas-of-focus/transportation/biking-at-nyu/nyc-bike-laws.html
+
+## Example Complaint Description
+
+> FHV driver stopped in bike lane, dangerously forcing bikers into traffic lane, in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 55-13(a)(1). Pictures included.
 
 ## The TCL Report Process
 
