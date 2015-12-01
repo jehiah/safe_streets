@@ -4,6 +4,8 @@ The TCL in NYC accepts reports from the general public of misconduct by drivers 
 
 ## Legal Basis
 
+There are two Laws that give the TLC authority to regulate Taxi's and For-Hire vehicles.
+
 TLC Commission Rule §55-13(a)(1) - Compliance with Traffic Laws - A For-Hire Driver must comply with all
 applicable traffic laws, rules and regulations. The Commission will impose the
 following fines and penalties in addition to any fines and penalties imposed by the
