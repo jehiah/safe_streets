@@ -4,14 +4,14 @@ The TCL in NYC accepts reports from the general public of misconduct by drivers 
 
 ## Legal Basis
 
-There are two Laws that give the TLC authority to apply traffic laws to Taxi's and For-Hire vehicles. They are TLC Commission Rule §55-13(a)(1) which applies to For-Hire Drivers and TLC Commission Rule §54-13(a)(1) which applies to Taxicab Drivers (see below). 
+There are two Laws that give the TLC authority to apply traffic laws to Taxi Drivers and For-Hire Drivers. They are TLC Commission Rule §55-13(a)(1) which applies to For-Hire Drivers and TLC Commission Rule §54-13(a)(1) which applies to Taxicab Drivers (see below). 
 
 ## Traffic Regulations
 
 http://www.nyc.gov/html/dot/downloads/pdf/trafrule.pdf
 
 * 4-08(e)(9) - (no stopping in bike lane)  No person shall stop, stand, or park a vehicle Within a designated bicycle lane.
-* 4-12(p)(2) - (no driving in bike lane) Driving on or across bicycle lanes prohibited 
+* 4-12(p)(2) - (no driving in bike lane) Driving on or across bicycle lanes prohibited - No person shall drive a vehicle on or across a designated bicycle lane, except when it is reasonable and necessary: (to enter or leave a driveway; to enter or leave a legal curbside parking space;  to cross an intersection; to make a turn within an intersection; to comply with the direction of any law enforcement officer or other person authorized to enforce this rule; to avoid an obstacle which leaves fewer than ten feet available for the free movement of vehicular traffic.) Notwithstanding any other rule, no person shall drive a vehicle on or across a designated bicycle lane in such manner as to interfere with the safety and passage of persons operating bicycles thereon.
 * 4-05(b)(1) - (no u-turns in business district) The operator of any vehicle shall not make a U-turn upon any street in a business district
 * 4-08(e)(3) - (no parking on sidewalks) General no stopping zones - sidewalks
 * 4-12(i) - (no honking in non-danger situations) Horn for danger only - No person shall sound the horn of a vehicle except when necessary to warn a person or animal of danger.
@@ -56,7 +56,7 @@ underlying law.
 
 http://bit.ly/TLC-Complaint or http://bit.ly/Taxi-Complaint
 
-In "Step 1: What" There is a description field to list the complaint. Be specific to include context on the situation, how you were affected, or your relation to the situation, and the specific complaint (it's helpful to reference the law your are complaining about), for example:
+**"Step 1: What"** There is a description field to list the complaint. Be specific to include context on the situation, how you were affected, or your relation to the situation, and the specific complaint (it's helpful to reference the law your are complaining about), for example:
 
 > Taxi driver stopped in bike lane, dangerously forcing bikers (including myself) into traffic lane,in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 54-13(a)(1). Pictures included.
 
@@ -64,10 +64,14 @@ or
 
 > FHV driver stopped in bike lane, dangerously forcing bikers (including myself) into traffic lane, in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 55-13(a)(1). Pictures included.
 
-In Step 4: Before submit you have the opportunity to review the details of your complaint. Scroll down. You can attach up to 3 files. The total size of all attachments must be under 5M, so resize as appropriate.
+**Step 4:** Before submit you have the opportunity to review the details of your complaint. Scroll down. You can attach up to 3 files. The total size of all attachments must be under 5M, so resize as appropriate.
 
+The TLC will assign an investigator who will contact you (typically via phone) to review the complaint. If the investigator agrees with your complaint, the TLC will issue a summons and will notify you if the driver pleads guilty or if a hearing is scheduled
+
+If a hearing is scheduled you will need to testify via phone.
 
 ## Other Useful Resources
 
 * FHV License Plate Lookup - https://data.cityofnewyork.us/Transportation/For-Hire-Vehicles-FHV-Active-and-Inactive-Vehicles/8wbx-tsch
 * Yellow Medallion Taxicabs (Vehicles) - https://data.cityofnewyork.us/Transportation/Medallion-Vehicles-Authorized/rhe8-mgbb
+* Another writeup of [the TLC Complaint process](http://bit.ly/1lyjrPj)
