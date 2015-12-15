@@ -4,45 +4,70 @@ The TCL in NYC accepts reports from the general public of misconduct by drivers 
 
 ## Legal Basis
 
-There are two Laws that give the TLC authority to regulate Taxi's and For-Hire vehicles.
-
-TLC Commission Rule §55-13(a)(1) - Compliance with Traffic Laws - A For-Hire Driver must comply with all
-applicable traffic laws, rules and regulations. The Commission will impose the
-following fines and penalties in addition to any fines and penalties imposed by the
-underlying law. http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch55.pdf
-
-TLC Commission Rule §54-13(a)(1) - Taxicab Drivers (and any authorized Driver of a
-Street Hail Livery, while driving a Street Hail Livery) must comply with all
-applicable traffic laws, rules, and regulations. Taxicab Drivers (and any
-authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) are
-subject to additional fines and penalties that will be imposed by the Commission
-for violating the traffic law. (1) Laws, rules or regulations governing stationary vehicles.  http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf
-
-**Process** Drivers have due process to a hearing 
+There are two Laws that give the TLC authority to apply traffic laws to Taxi's and For-Hire vehicles. They are TLC Commission Rule §55-13(a)(1) which applies to For-Hire Drivers and TLC Commission Rule §54-13(a)(1) which applies to Taxicab Drivers (see below). 
 
 ## Traffic Regulations
 
-Common Laws Referenced: http://www.nyc.gov/html/dot/downloads/pdf/trafrule.pdf
+http://www.nyc.gov/html/dot/downloads/pdf/trafrule.pdf
 
-* 4-08(e)(9) - No person shall stop, stand, or park a vehicle Within a designated bicycle lane. - (no stopping in bike lane) 
-* 4-05(b)(1) - The operator of any vehicle shall not make a U-turn upon any street in a business district (no u-turns in business district)
-* 4-08(e)(3) - General no stopping zones - sidewalks - (no parking on sidewalks)
+* 4-08(e)(9) - (no stopping in bike lane)  No person shall stop, stand, or park a vehicle Within a designated bicycle lane.
+* 4-12(p)(2) - (no driving in bike lane) Driving on or across bicycle lanes prohibited 
+* 4-05(b)(1) - (no u-turns in business district) The operator of any vehicle shall not make a U-turn upon any street in a business district
+* 4-08(e)(3) - (no parking on sidewalks) General no stopping zones - sidewalks
+* 4-12(i) - (no honking in non-danger situations) Horn for danger only - No person shall sound the horn of a vehicle except when necessary to warn a person or animal of danger.
 
 Other indexes of applicable laws:
 
 * http://www.nyu.edu/life/sustainability/areas-of-focus/transportation/biking-at-nyu/nyc-bike-laws.html
 
-## Example Complaint Description
+## TLC Commission Rules - Taxi Driver Regulations
 
-> FHV driver stopped in bike lane, dangerously forcing bikers into traffic lane, in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 55-13(a)(1). Pictures included.
+http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf
+
+* 54-12(f) - Threats, Harassment, Abuse. While performing the duties and responsibilities of
+a Licensee, a Licensee must not threaten, harass, or abuse any person, and must
+not distract or attempt to distract any Service Animal.
+* 54-12(g) - Use or Threat of Physical Force. While performing the duties and
+responsibilities of a Licensee or any act in connection with those duties, a
+Licensee must not use or attempt to use any physical force against a person or
+Service Animal.
+* 54-13(a)(1) - Taxicab Drivers (and any authorized Driver of a
+Street Hail Livery, while driving a Street Hail Livery) must comply with all
+applicable traffic laws, rules, and regulations. Taxicab Drivers (and any
+authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) are
+subject to additional fines and penalties that will be imposed by the Commission
+for violating the traffic law. (1) Laws, rules or regulations governing stationary vehicles. 
+
+## TLC Commission Rules - For Hire Driver Regulations
+
+http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch55.pdf
+
+* 55-12(e) - Threats, Harassment, Abuse. While performing the duties and responsibilities of
+a Licensee, a Licensee must not threaten, harass, or abuse any person.
+* 55-12(g) - Use or Threat of Physical Force. While performing the duties and
+responsibilities of a Licensee or any act in connection with those duties, a
+Licensee must not use or attempt to use any physical force against a person.
+* 55-13(a)(1) - Compliance with Traffic Laws - A For-Hire Driver must comply with all
+applicable traffic laws, rules and regulations. The Commission will impose the
+following fines and penalties in addition to any fines and penalties imposed by the
+underlying law.
 
 ## The TCL Report Process
 
-http://bit.ly/TLC-Complaint
+http://bit.ly/TLC-Complaint or http://bit.ly/Taxi-Complaint
 
-In "Step 1: What" There is a description field to list the complaint, for example:
+In "Step 1: What" There is a description field to list the complaint. Be specific to include context on the situation, how you were affected, or your relation to the situation, and the specific complaint (it's helpful to reference the law your are complaining about), for example:
 
-> FHV driver stopped in bike lane, in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 55-13(a)(1). (Pictures available)
+> Taxi driver stopped in bike lane, dangerously forcing bikers (including myself) into traffic lane,in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 54-13(a)(1). Pictures included.
 
-In Step 4: Before submit you have the opportunity to review the details of your complaint. Scroll down. You can attach 3 files. (up to 5M in total size so resize images as appropriate)
+or 
 
+> FHV driver stopped in bike lane, dangerously forcing bikers (including myself) into traffic lane, in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 55-13(a)(1). Pictures included.
+
+In Step 4: Before submit you have the opportunity to review the details of your complaint. Scroll down. You can attach up to 3 files. The total size of all attachments must be under 5M, so resize as appropriate.
+
+
+## Other Useful Resources
+
+* FHV License Plate Lookup - https://data.cityofnewyork.us/Transportation/For-Hire-Vehicles-FHV-Active-and-Inactive-Vehicles/8wbx-tsch
+* Yellow Medallion Taxicabs (Vehicles) - https://data.cityofnewyork.us/Transportation/Medallion-Vehicles-Authorized/rhe8-mgbb
