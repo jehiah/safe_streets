@@ -66,9 +66,21 @@ or
 
 **Step 4:** Before submit you have the opportunity to review the details of your complaint. Scroll down. You can attach up to 3 files. The total size of all attachments must be under 5M, so resize as appropriate.
 
+You will receive a confirmation page w/ your 311 report number. You will also receive an email confirmation.
+
 The TLC will assign an investigator who will contact you (typically via phone) to review the complaint. If the investigator agrees with your complaint, the TLC will issue a summons and will notify you if the driver pleads guilty or if a hearing is scheduled
 
 If a hearing is scheduled you will need to testify via phone.
+
+## Keeping Notes
+
+It's easy to get things mixed up when you file any number of complaints, so here are some tips:
+
+* Write your complaint, the location, time of incident, and the license plate number down before submitting, and copy & paste this info into the appropriate fields when submitting your complaint. This is so you have a copy of your complaint.
+* When you get the email complaint, send a copy of the email that has your 311 number to yourself (or forward to yourself) and paste a copy of your complaint text, the location, the time, and the license plate number. 
+* If you have photos, attach them to the email so you have all your documentation in one place.
+* When you have conversations with the TLC reply to your email thread w/ additional notes noting when you had the conversation, and what stage the complaint is in.
+* If you need keep additional photos handy (and you don't want to email them) I suggest naming a folder with the format `YYYY-MM-DD_HHMM_$LICENSE`. That can also be a good spot to same your draft complaint information.
 
 ## Other Useful Resources
 
