@@ -6,10 +6,11 @@ The TCL in NYC accepts reports from the general public of misconduct by drivers 
 
 There are two Laws that give the TLC authority to apply traffic laws to Taxi Drivers and For-Hire Drivers. They are TLC Commission Rule §55-13(a)(1) which applies to For-Hire Drivers and TLC Commission Rule §54-13(a)(1) which applies to Taxicab Drivers (see below). 
 
-## Traffic Regulations
+## NYC DOT Traffic Regulations
 
 http://www.nyc.gov/html/dot/downloads/pdf/trafrule.pdf
 
+* 4-11(c)(6) - (no pickup or discharge of passengers in bike lane) picking up or discharging passengers shall not be made: Within a bicycle lane.
 * 4-08(e)(9) - (no stopping in bike lane)  No person shall stop, stand, or park a vehicle Within a designated bicycle lane.
 * 4-12(p)(2) - (no driving in bike lane) Driving on or across bicycle lanes prohibited - No person shall drive a vehicle on or across a designated bicycle lane, except when it is reasonable and necessary: (to enter or leave a driveway; to enter or leave a legal curbside parking space;  to cross an intersection; to make a turn within an intersection; to comply with the direction of any law enforcement officer or other person authorized to enforce this rule; to avoid an obstacle which leaves fewer than ten feet available for the free movement of vehicular traffic.) Notwithstanding any other rule, no person shall drive a vehicle on or across a designated bicycle lane in such manner as to interfere with the safety and passage of persons operating bicycles thereon.
 * 4-05(b)(1) - (no u-turns in business district) The operator of any vehicle shall not make a U-turn upon any street in a business district
