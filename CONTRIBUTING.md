@@ -1,0 +1,1 @@
+Any proposed change should have a reference for locations that are ahead of NYC in that area (the more the better), links to concrete law/ordinance/regulation (proposed or enacted) and a summary of benefits or motivations.
