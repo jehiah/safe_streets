@@ -1,23 +1,18 @@
 # Make NYC Streets Safe
 
-This Repository is focused on potential changes to NY and NYC law which would promote a safe street in line with [Vision Zero](http://www.nyc.gov/VisionZero) initiatives in NYC and around the world. As a byproduct these changes environmentally friendly modes of transportation (walking and cycling and mass transit) will likely increase, and private vehicle ownership will likely decrease. Changes that are directly focused on changing mode share with a side effect of improved safety may also be listed here.
-
-Any proposed change should have a reference for locations that are ahead of NYC in that area (the more the better), links to concrete law/ordinance/regulation (proposed or enacted) and a summary of benefits or motivations.
+This Repository is focused changes that promote safe streets in line with [Vision Zero](http://www.nyc.gov/VisionZero) initiatives in NYC and around the world. The primary focus is on tools for enforcement and creating a comprehensive overview of potential changes to NY and NYC law. Changes that are directly focused on changing mode share away from private vehicles which has a side effect of improved safety may also be listed here.
 
 ## Get Involved
 
-There are lots of organizations that are doing good work. Organizations that are focused on these topics are:
+There are lots of organizations that are doing good work. Some that are focused on these topics are:
 
 * [Transportation Alternatives](https://www.transalt.org/)
 * [Families for Safe Streets](http://familiesforsafestreets.org/)
 
-Have a specific idea, or context to add to an existing one? open a Pull Request.
+Have a specific idea, or additional information to contribute to an existing one? open an issue or Pull Request.
 
-## Proposals
+## Topics
 
-* [Safely Passing Bicycles](safely_passing_bicycles.md)
-* [Pedestrian Signals](pedestrian_signals.md)
-
-## Cyclists With Cameras
-
-This is a citizen driven movement to bring attention to the TLC of illegal behavior of TLC regulated drivers as an enforcement mechanism to promote safe driving and make our streets safer. [Cyclists With Cameras](cyclists_with_cameras.md)
+* [Cyclists With Cameras](cyclists_with_cameras.md) - A movement to help TLC regulate illegal driver behavior, primarily blocking bike lanes.
+* [Pedestrian Signals](pedestrian_signals.md) - Improve legal definition of pedestrian Right Of Way
+* [Safely Passing Bicycles](safely_passing_bicycles.md) - Improve legal requirement for safe passing of cyclists
