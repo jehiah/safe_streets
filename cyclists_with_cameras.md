@@ -1,6 +1,6 @@
 # Cyclists With Cameras
 
-The TCL in NYC accepts reports from the general public of misconduct by drivers of Taxi and For Hire Vehicles. Based on reports it can levy fine drivers, and is willing to do so for traffic violations including blocking bicycle lanes. A growing movement to use this as a tool for increasing enforcement and improving cyclist and pedestrian safety has become known as [#CyclistsWithCameras](https://twitter.com/hashtag/CyclistswithCameras?src=hash)
+The TLC in NYC accepts reports from the general public of misconduct by drivers of Taxis and For Hire Vehicles (FHV). Based on reports it can levy fine drivers, and is willing to do so for traffic violations including blocking bicycle lanes. A growing movement to use this as a tool for increasing enforcement and improving cyclist and pedestrian safety has become known as [#CyclistsWithCameras](https://twitter.com/hashtag/CyclistswithCameras?src=hash)
 
 ## Legal Basis
 
@@ -53,7 +53,7 @@ applicable traffic laws, rules and regulations. The Commission will impose the
 following fines and penalties in addition to any fines and penalties imposed by the
 underlying law.
 
-## The TCL Report Process
+## The TLC Report Process
 
 http://bit.ly/TLC-Complaint or http://bit.ly/Taxi-Complaint
 
