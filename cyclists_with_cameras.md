@@ -6,6 +6,14 @@ The TLC in NYC accepts reports from the general public of misconduct by drivers 
 
 There are two Laws that give the TLC authority to apply traffic laws to Taxi Drivers and For-Hire Drivers. They are TLC Commission Rule §55-13(a)(1) which applies to For-Hire Drivers and TLC Commission Rule §54-13(a)(1) which applies to Taxicab Drivers (see below). 
 
+## NY Vehicle Traffic Law
+
+http://ypdcrime.com/vt/title7.htm
+
+* 1160(a) (no right from center lane) http://ypdcrime.com/vt/article28.htm#t1160
+* 1160(b) (no left from center lane when both two-way streets) http://ypdcrime.com/vt/article28.htm#t1160
+* 1160(c) (no left from center lane at one-way street) http://ypdcrime.com/vt/article28.htm#t1160
+
 ## NYC DOT Traffic Regulations
 
 http://www.nyc.gov/html/dot/downloads/pdf/trafrule.pdf
