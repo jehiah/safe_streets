@@ -47,6 +47,12 @@ applicable traffic laws, rules, and regulations. Taxicab Drivers (and any
 authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) are
 subject to additional fines and penalties that will be imposed by the Commission
 for violating the traffic law. (1) Laws, rules or regulations governing stationary vehicles. 
+* 54-13(a)(2) - Taxicab Drivers (and any authorized Driver of a
+Street Hail Livery, while driving a Street Hail Livery) must comply with all
+applicable traffic laws, rules, and regulations. Taxicab Drivers (and any
+authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) are
+subject to additional fines and penalties that will be imposed by the Commission
+for violating the traffic law. (2) Laws, rules or regulations governing moving vehicles.
 
 ## TLC Commission Rules - For Hire Driver Regulations
 
@@ -60,7 +66,12 @@ Licensee must not use or attempt to use any physical force against a person.
 * 55-13(a)(1) - Compliance with Traffic Laws - A For-Hire Driver must comply with all
 applicable traffic laws, rules and regulations. The Commission will impose the
 following fines and penalties in addition to any fines and penalties imposed by the
-underlying law.
+underlying law. (1) Laws, rules or regulations governing stationary vehicles.
+* 55-13(a)(2) - Compliance with Traffic Laws - A For-Hire Driver must comply with all
+applicable traffic laws, rules and regulations. The Commission will impose the
+following fines and penalties in addition to any fines and penalties imposed by the
+underlying law. (2) Laws, rules or regulations governing moving vehicles.
+
 
 ## The TLC Report Process
 
