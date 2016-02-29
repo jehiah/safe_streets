@@ -16,6 +16,7 @@ http://www.nyc.gov/html/dot/downloads/pdf/trafrule.pdf
 * 4-05(b)(1) - (no u-turns in business district) The operator of any vehicle shall not make a U-turn upon any street in a business district
 * 4-08(e)(3) - (no parking on sidewalks) General no stopping zones - sidewalks
 * 4-12(i) - (no honking in non-danger situations) Horn for danger only - No person shall sound the horn of a vehicle except when necessary to warn a person or animal of danger.
+* 4-07(b)(2) - (blocking intersection and crosswalks) No operator shall enter an intersection and its crosswalks unless there is sufficient unobstructed space beyond the intersection and its crosswalks in the lane in which he/she is traveling to accommodate the vehicle, notwithstanding any traffic control signal indication to proceed.
 
 Other indexes of applicable laws:
 
