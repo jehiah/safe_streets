@@ -60,7 +60,7 @@ http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch55.pdf
 
 * 55-12(e) - Threats, Harassment, Abuse. While performing the duties and responsibilities of
 a Licensee, a Licensee must not threaten, harass, or abuse any person.
-* 55-12(g) - Use or Threat of Physical Force. While performing the duties and
+* 55-12(f) - Use or Threat of Physical Force. While performing the duties and
 responsibilities of a Licensee or any act in connection with those duties, a
 Licensee must not use or attempt to use any physical force against a person.
 * 55-13(a)(1) - Compliance with Traffic Laws - A For-Hire Driver must comply with all
