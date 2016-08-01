@@ -16,3 +16,4 @@ If at an intersection w/clock, pedestrian must get past median + 1/2 way to far 
 ### Proposed Changes
 
 * [Int 0997-2015](http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=2513767&GUID=A9FE4C8E-FFBC-46D5-B03B-B27234A248A5) - This legislation would provide the right of way to pedestrians crossing from a median when a numerical countdown clock has already begun to count down. Introduced by NYC Public Advocate [Letitia James](https://twitter.com/TishJames) 
+* [Int 0876-2015](http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=2404426&GUID=F4AC303D-2B03-4EB3-91E1-79BFDEF47496) require NYPD to report on enforcement of ROW violations

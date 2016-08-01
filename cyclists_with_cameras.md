@@ -75,9 +75,11 @@ underlying law. (2) Laws, rules or regulations governing moving vehicles.
 
 ## The TLC Report Process
 
-http://bit.ly/TLC-Complaint or http://bit.ly/Taxi-Complaint
+https://bit.ly/FHV-Complaint  or https://bit.ly/Taxi-Complaint
 
-**"Step 1: What"** There is a description field to list the complaint. Be specific to include context on the situation, how you were affected, or your relation to the situation, and the specific complaint (it's helpful to reference the law your are complaining about), for example:
+Select "Is Reckless or Unsafe" to begin the complaint form.
+
+**"Step 1: What"** There is a description field to list the complaint. Be specific. Include context on the situation, how you were affected, or your relation to the situation, and the specific complaint (it's helpful to reference the law your are complaining about), for example:
 
 > Taxi driver stopped in bike lane, dangerously forcing bikers (including myself) into traffic lane,in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 54-13(a)(1). Pictures included.
 
@@ -87,24 +89,32 @@ or
 
 **Step 4:** Before submit you have the opportunity to review the details of your complaint. Scroll down. You can attach up to 3 files. The total size of all attachments must be under 5M, so resize as appropriate.
 
-You will receive a confirmation page w/ your 311 report number. You will also receive an email confirmation.
+You will receive a confirmation page w/ your 311 report number. You will also receive an email confirmation. Make a note of this number. You will use it to reference this complaint when communicating with the TLC.
 
-The TLC will assign an investigator who will contact you (typically via phone) to review the complaint. If the investigator agrees with your complaint, the TLC will issue a summons and will notify you if the driver pleads guilty or if a hearing is scheduled
+The TLC will assign an investigator who will contact you (typically via phone) to review the complaint. If the investigator agrees with your complaint, the TLC will issue a summons and will notify you if the driver pleads guilty or if a hearing is scheduled.
 
-If a hearing is scheduled you will need to testify via phone.
+If a hearing is scheduled you will need to testify via phone, but do not worry the TLC will walk you through that process (and it boils down to swearing in and reading your complaint).
 
-## Keeping Notes
+## Keeping Notes - Tips & Tricks
 
-It's easy to get things mixed up when you file any number of complaints, so here are some tips:
+It's easy to get things mixed up when you file complaints. Here are some Tips to help:
 
-* Write your complaint, the location, time of incident, and the license plate number down before submitting, and copy & paste this info into the appropriate fields when submitting your complaint. This is so you have a copy of your complaint.
-* When you get the email complaint, send a copy of the email that has your 311 number to yourself (or forward to yourself) and paste a copy of your complaint text, the location, the time, and the license plate number. 
-* If you have photos, attach them to the email so you have all your documentation in one place.
-* When you have conversations with the TLC reply to your email thread w/ additional notes noting when you had the conversation, and what stage the complaint is in.
-* If you need keep additional photos handy (and you don't want to email them) I suggest naming a folder with the format `YYYY-MM-DD_HHMM_$LICENSE`. That can also be a good spot to same your draft complaint information.
+* Write down your complaint, the location (cross streets), time of incident, and the license plate number down before submitting online. Copy & paste this info into the appropriate fields when submitting your complaint. This makes sure you have a copy of your complaint after you submit it (The 311 system won't give you a copy of what you submit).
+* Write what you were doing (biking, walking, etc) to help job your memory about your relation to the incident.
+* Save relevant photos and videos in one spot with your notes.
+* When you have conversations with the TLC make a note of them.
+* If you are not sure about a license plate number (i.e. if your photo is blurry) use the FHV license plate lookup. If you find a match, google search the VIN number and make sure that it's the right make and model vehicle.
+* Good cameras to help gather evidence backing your complaints are the [Contour ROAM](https://www.amazon.com/Contour-ROAM3-Waterproof-Video-Camera/dp/B00METYIQ2) or [Garmin Virb Elite](https://buy.garmin.com/en-US/US/on-the-trail/action-cameras/virb-elite/prod119594.html). You can set these to take photos every 1second as photo evidence is much easier to work with than video (and takes up much less space).
+
+Techniques for organizing notes:
+
+**Email**: When you get the email confirmation from 311, forward it to yourself with your complaint text, the location, the time, and the license plate number, and any relevant photos. Any future activity relevant to a complaint can be noted by replying to that email thread. You can then search your email for relevant complaint numbers when you need to pull up information.
+**Folders**: If you have a large number of photos or videos, it may be easier to create a folder for each complaint. [cwc](https://github.com/jehiah/cwc) is a collection of utilities I use to manage complaint information which follows this pattern. It boils down to creating a folder named with the date and time, and license plate number.
 
 ## Other Useful Resources
 
-* FHV License Plate Lookup - https://data.cityofnewyork.us/Transportation/For-Hire-Vehicles-FHV-Active-and-Inactive-Vehicles/8wbx-tsch
-* Yellow Medallion Taxicabs (Vehicles) - https://data.cityofnewyork.us/Transportation/Medallion-Vehicles-Authorized/rhe8-mgbb
+* [FHV License Plate Lookup](https://data.cityofnewyork.us/Transportation/For-Hire-Vehicles-FHV-Active-and-Inactive-Vehicles/8wbx-tsch) - NYC Open Data
+* [Yellow Medallion Taxicabs (Vehicles) Lookup](https://data.cityofnewyork.us/Transportation/Medallion-Vehicles-Authorized/rhe8-mgbb) - NYC Open Data
 * Another writeup of [the TLC Complaint process](http://bit.ly/1lyjrPj)
+* [Reported](https://itunes.apple.com/us/app/reported/id916072964?mt=8) iOS App
+* [cwc](https://github.com/jehiah/cwc) a set of utilities for managing complaint data
