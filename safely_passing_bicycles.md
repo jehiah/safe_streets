@@ -26,3 +26,4 @@ In 1973 Wisconsin became the first state to enact such a law. 1 state has a 4ft 
 ## Enforcement
 
 * Chattanooga, Tennessee uses a Bike mounted ultrasonic sensor by [Codaxus](http://codaxus.com/) - http://www.citylab.com/tech/2015/06/a-nifty-device-to-stop-cars-from-driving-too-close-to-bikes/397055/
+* Ottawa and 10 other cities using sonar (C3FT) to detect passing too close. https://www.fastcoexist.com/3062184/world-changing-ideas/this-bike-sonar-catches-drivers-who-drive-too-closely-to-cyclists
