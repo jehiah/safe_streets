@@ -32,7 +32,7 @@ Other indexes of applicable laws:
 
 ## TLC Commission Rules - Taxi Driver Regulations
 
-http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf
+http://www.nyc.gov/html/tlc/downloads/pdf/rule_book_current_chapter_54.pdf
 
 * 54-12(f) - Threats, Harassment, Abuse. While performing the duties and responsibilities of
 a Licensee, a Licensee must not threaten, harass, or abuse any person, and must
@@ -56,7 +56,7 @@ for violating the traffic law. (2) Laws, rules or regulations governing moving v
 
 ## TLC Commission Rules - For Hire Driver Regulations
 
-http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch55.pdf
+http://www.nyc.gov/html/tlc/downloads/pdf/rule_book_current_chapter_55.pdf
 
 * 55-12(e) - Threats, Harassment, Abuse. While performing the duties and responsibilities of
 a Licensee, a Licensee must not threaten, harass, or abuse any person.
