@@ -4,73 +4,57 @@ The TLC in NYC accepts reports from the general public of misconduct by drivers 
 
 ## Legal Basis
 
-There are two Laws that give the TLC authority to apply traffic laws to Taxi Drivers and For-Hire Drivers. They are TLC Commission Rule §55-13(a)(1) which applies to For-Hire Drivers and TLC Commission Rule §54-13(a)(1) which applies to Taxicab Drivers (see below). 
+The T&LC has authority to enforce NY State Vehicle Traffic Laws (VTL) and NYC DOT Traffic Regulations in relation to Taxi Drivers and For-Hire Drivers. The rules describing this are TLC Commission Rule §80-13(a)(1) and §80-13(a)(1) (see below). There are also more specific TLC regulations, with specific fines, that regulate actions. 
 
-## NY Vehicle Traffic Law
+## NY Vehicle Traffic Law (VTL)
 
 http://ypdcrime.com/vt/title7.htm
 
-* 1160(a) (no right from center lane) http://ypdcrime.com/vt/article28.htm#t1160
-* 1160(b) (no left from center lane when both two-way streets) http://ypdcrime.com/vt/article28.htm#t1160
-* 1160(c) (no left from center lane at one-way street) http://ypdcrime.com/vt/article28.htm#t1160
+* 1126 - no passing zone
+* 1160(a) - (no right from center lane) http://ypdcrime.com/vt/article28.htm#t1160
+* 1160(b) - (no left from center lane when both two-way streets) http://ypdcrime.com/vt/article28.htm#t1160
+* 1160(c) - (no left from center lane at one-way street) http://ypdcrime.com/vt/article28.htm#t1160
+* 375(30) - (no obstructed view of road)
+* 1225-c(2) - (cell-phone use while driving)
 
 ## NYC DOT Traffic Regulations
 
 http://www.nyc.gov/html/dot/downloads/pdf/trafrule.pdf
 
-* 4-11(c)(6) - (no pickup or discharge of passengers in bike lane) picking up or discharging passengers shall not be made: Within a bicycle lane.
-* 4-08(e)(9) - (no stopping in bike lane)  No person shall stop, stand, or park a vehicle Within a designated bicycle lane.
-* 4-12(p)(2) - (no driving in bike lane) Driving on or across bicycle lanes prohibited - No person shall drive a vehicle on or across a designated bicycle lane, except when it is reasonable and necessary: (to enter or leave a driveway; to enter or leave a legal curbside parking space;  to cross an intersection; to make a turn within an intersection; to comply with the direction of any law enforcement officer or other person authorized to enforce this rule; to avoid an obstacle which leaves fewer than ten feet available for the free movement of vehicular traffic.) Notwithstanding any other rule, no person shall drive a vehicle on or across a designated bicycle lane in such manner as to interfere with the safety and passage of persons operating bicycles thereon.
 * 4-05(b)(1) - (no u-turns in business district) The operator of any vehicle shall not make a U-turn upon any street in a business district
-* 4-08(e)(3) - (no parking on sidewalks) General no stopping zones - sidewalks
-* 4-12(i) - (no honking in non-danger situations) Horn for danger only - No person shall sound the horn of a vehicle except when necessary to warn a person or animal of danger.
 * 4-07(b)(2) - (blocking intersection and crosswalks) No operator shall enter an intersection and its crosswalks unless there is sufficient unobstructed space beyond the intersection and its crosswalks in the lane in which he/she is traveling to accommodate the vehicle, notwithstanding any traffic control signal indication to proceed.
+* 4-08(e)(3) - (no parking on sidewalks) General no stopping zones - sidewalks
+* 4-08(e)(9) - (no stopping in bike lane)  No person shall stop, stand, or park a vehicle Within a designated bicycle lane.
+* 4-11(c)(6) - (no pickup or discharge of passengers in bike lane) picking up or discharging passengers shall not be made: Within a bicycle lane.
+* 4-12(p)(2) - (no driving in bike lane) Driving on or across bicycle lanes prohibited - No person shall drive a vehicle on or across a designated bicycle lane, except when it is reasonable and necessary: (to enter or leave a driveway; to enter or leave a legal curbside parking space;  to cross an intersection; to make a turn within an intersection; to comply with the direction of any law enforcement officer or other person authorized to enforce this rule; to avoid an obstacle which leaves fewer than ten feet available for the free movement of vehicular traffic.) Notwithstanding any other rule, no person shall drive a vehicle on or across a designated bicycle lane in such manner as to interfere with the safety and passage of persons operating bicycles thereon.
+* 4-12(i) - (no honking in non-danger situations) Horn for danger only - No person shall sound the horn of a vehicle except when necessary to warn a person or animal of danger.
+* 4-12(m) -  (no driving in bus & right turn only lane) When signs are erected giving notice of bus lane
+  restrictions, no person shall drive a vehicle other than a bus within a designated bus lane during the
+  restricted hours except: (1) permitted right turn, (2) approach or leave the curbside space, (3) expeditiously receiving or discharging passengers, (4) to avoid an obstacle, (5) to comply with direction from law enforcement.
+  With respect to the exceptions in paragraphs one through four of this subdivision, a vehicle may not
+  be operated in the bus lane during restricted hours for more than two hundred feet
 
 Other indexes of applicable laws:
 
 * http://www.nyu.edu/life/sustainability/areas-of-focus/transportation/biking-at-nyu/nyc-bike-laws.html
 
-## TLC Commission Rules - Taxi Driver Regulations
+## TLC Commission Rules
 
-http://www.nyc.gov/html/tlc/downloads/pdf/rule_book_current_chapter_54.pdf
+http://www.nyc.gov/html/tlc/downloads/pdf/rule_book_current_chapter_80.pdf (effective after 10/26/2016)
 
-* 54-12(f) - Threats, Harassment, Abuse. While performing the duties and responsibilities of
-a Licensee, a Licensee must not threaten, harass, or abuse any person, and must
-not distract or attempt to distract any Service Animal.
-* 54-12(g) - Use or Threat of Physical Force. While performing the duties and
-responsibilities of a Licensee or any act in connection with those duties, a
-Licensee must not use or attempt to use any physical force against a person or
-Service Animal.
-* 54-13(a)(1) - Taxicab Drivers (and any authorized Driver of a
-Street Hail Livery, while driving a Street Hail Livery) must comply with all
-applicable traffic laws, rules, and regulations. Taxicab Drivers (and any
-authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) are
-subject to additional fines and penalties that will be imposed by the Commission
-for violating the traffic law. (1) Laws, rules or regulations governing stationary vehicles. 
-* 54-13(a)(2) - Taxicab Drivers (and any authorized Driver of a
-Street Hail Livery, while driving a Street Hail Livery) must comply with all
-applicable traffic laws, rules, and regulations. Taxicab Drivers (and any
-authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) are
-subject to additional fines and penalties that will be imposed by the Commission
-for violating the traffic law. (2) Laws, rules or regulations governing moving vehicles.
+* 80-13(a) - Drivers of Taxicabs, For-Hire Vehicles and Street Hail Liveries must comply with all applicable traffic laws, rules, and regulations. 
+    80-13(a)(1) Laws, rules or regulations governing stationary vehicles. 
+    80-13(a)(2) Laws, rules or regulations governing moving vehicles.
+* 80-12(e)
+* 80-13(a)(3)(ix) - Yield sign violation
+* 80-13(a)(3)(iii) - Following too closely (tailgating)
+* 80-13(a)(3)(vii) - Traffic signal violation
+* 80-13(a)(3)(viii) - Stop signal violation
+* 80-13(a)(3)(xi) - Improper passing
+* 80-13(a)(3)((xii)) - Unsafe lange chnage
+* 80-13(a)(3)(xiii) - Driving left of center
+* 80-13(a)(3)(xiv) - Driving in wrong direction
 
-## TLC Commission Rules - For Hire Driver Regulations
-
-http://www.nyc.gov/html/tlc/downloads/pdf/rule_book_current_chapter_55.pdf
-
-* 55-12(e) - Threats, Harassment, Abuse. While performing the duties and responsibilities of
-a Licensee, a Licensee must not threaten, harass, or abuse any person.
-* 55-12(f) - Use or Threat of Physical Force. While performing the duties and
-responsibilities of a Licensee or any act in connection with those duties, a
-Licensee must not use or attempt to use any physical force against a person.
-* 55-13(a)(1) - Compliance with Traffic Laws - A For-Hire Driver must comply with all
-applicable traffic laws, rules and regulations. The Commission will impose the
-following fines and penalties in addition to any fines and penalties imposed by the
-underlying law. (1) Laws, rules or regulations governing stationary vehicles.
-* 55-13(a)(2) - Compliance with Traffic Laws - A For-Hire Driver must comply with all
-applicable traffic laws, rules and regulations. The Commission will impose the
-following fines and penalties in addition to any fines and penalties imposed by the
-underlying law. (2) Laws, rules or regulations governing moving vehicles.
 
 
 ## The TLC Report Process
@@ -81,11 +65,7 @@ Select "Is Reckless or Unsafe" to begin the complaint form.
 
 **"Step 1: What"** There is a description field to list the complaint. Be specific. Include context on the situation, how you were affected, or your relation to the situation, and the specific complaint (it's helpful to reference the law your are complaining about), for example:
 
-> Taxi driver stopped in bike lane, dangerously forcing bikers (including myself) into traffic lane,in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 54-13(a)(1). Pictures included.
-
-or 
-
-> FHV driver stopped in bike lane, dangerously forcing bikers (including myself) into traffic lane, in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 55-13(a)(1). Pictures included.
+> Taxi driver stopped in bike lane, dangerously forcing bikers (including myself) into traffic lane,in violation of NYC Traffic Rules 4-08(e)(9) (no stopping in bike lane) & Commission Rule 80-13(a)(1). Pictures included.
 
 **Step 4:** Before submit you have the opportunity to review the details of your complaint. Scroll down. You can attach up to 3 files. The total size of all attachments must be under 5M, so resize as appropriate.
 
