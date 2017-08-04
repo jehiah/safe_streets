@@ -18,6 +18,8 @@ These are changes (primarily fine adjustments) that bring balance to how the law
 * Illegal License plate cover indicates intention to speed or run red lights. This should be a higher fine than general obstructed license plate. Suggested >$500
 * "failure to display muni-receipt" should escalate so it doesn't provide cheap parking. second or third offense should be >$250
 * The city wide speed limit is 25mph, but drivers can exceed that by 40% before potentially getting a ticket. Reduce the buffer before ticketing for speed limits 35mph and lower to 5mph over.
+* There is no law that restricts driving in a parking lane, meaning it's ok for vehicles to use it as a second lane when and where they feel like it.
+* License plate covers might be illegal, but selling or installing them is not (including 'bumper' devices that obstruct side view of license plate). Some auto shops advertise installing  "hideaway license plates" see: https://www.instagram.com/p/BTT4zYGBpk4/?taken-by=pnaautosport
 
 ## Add Missing Laws and Make Sane Adjustments
 
