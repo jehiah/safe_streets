@@ -28,6 +28,8 @@ These are changes (primarily fine adjustments) that bring balance to how the law
 * No set fine for obstructed  view of road  VTL 375(30) (aka things mounted above the  dashboard). Set $200 fine.
 * limit bike sales to 'street legal' bikes (aka must have lights and bell to be sold). This effectively makes dynamo lights standard and greately limits the ability for NYPD to target cyclists w/o either. See 1236
 * 1237 - hand signals required - there should be an exemption for when it's unsafe (at the riders sole discretion)
+* VTL 4–12(p)(3) - cyclists should be more clearly allowed to ride in any lane they deem safe, regardless of road width.
+
 
 ## Do The Right Thing (but it will take some serious guts)
 
@@ -40,4 +42,5 @@ These are changes (primarily fine adjustments) that bring balance to how the law
 * many smaller tolls better than single larger ticket tolls. 
 * Diesel kills (this is why the emissions cheating for diesel recently was such a bad thing). Tax it generously. We know prices >$4 change behaviour. Add a $1/gal "clean air" tax.
 * Ban sale of gas or diesel vehicles - https://www.nytimes.com/2017/07/26/world/europe/uk-diesel-petrol-emissions.html https://www.gov.uk/government/publications/air-quality-plan-for-nitrogen-dioxide-no2-in-uk-2017
+* Require HOV4+ entering CBD, and HOV on all other major crossing into manhattan during "air quality alert" days. (HOV4+ restrictions were effectively used during transit strike of 2005)
 
