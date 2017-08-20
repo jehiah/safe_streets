@@ -20,6 +20,8 @@ These are changes (primarily fine adjustments) that bring balance to how the law
 * The city wide speed limit is 25mph, but drivers can exceed that by 40% before potentially getting a ticket. Reduce the buffer before ticketing for speed limits 35mph and lower to 5mph over.
 * There is no law that restricts driving in a parking lane, meaning it's ok for vehicles to use it as a second lane when and where they feel like it.
 * License plate covers might be illegal, but selling or installing them is not (including 'bumper' devices that obstruct side view of license plate). Some auto shops advertise installing  "hideaway license plates" see: https://www.instagram.com/p/BTT4zYGBpk4/?taken-by=pnaautosport
+* NY VTL 375 1.(a) - horn must not be "unnecessarily loud or harsh". This should be a quantifyable decible level as measure a specific distance from the vehicle. (It would be ok if there is a separate volume limit that would apply to horns restricted to use above 50mph)
+* Selling or installing horns above volume limit should also be illegal
 
 ## Add Missing Laws and Make Sane Adjustments
 
