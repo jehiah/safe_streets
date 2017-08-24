@@ -88,8 +88,8 @@ It's easy to get things mixed up when you file complaints. Here are some Tips to
 
 Techniques for organizing notes:
 
-**Email**: When you get the email confirmation from 311, forward it to yourself with your complaint text, the location, the time, and the license plate number, and any relevant photos. Any future activity relevant to a complaint can be noted by replying to that email thread. You can then search your email for relevant complaint numbers when you need to pull up information.
-**Folders**: If you have a large number of photos or videos, it may be easier to create a folder for each complaint. [cwc](https://github.com/jehiah/cwc) is a collection of utilities I use to manage complaint information which follows this pattern. It boils down to creating a folder named with the date and time, and license plate number.
+* **Email**: When you get the email confirmation from 311, forward it to yourself with your complaint text, the location, the time, and the license plate number, and any relevant photos. Any future activity relevant to a complaint can be noted by replying to that email thread. You can then search your email for relevant complaint numbers when you need to pull up information.
+* **Folders**: If you have a large number of photos or videos, it may be easier to create a folder for each complaint. [cwc](https://github.com/jehiah/cwc) is a collection of utilities I use to manage complaint information which follows this pattern. It boils down to creating a folder named with the date and time, and license plate number.
 
 ## Other Useful Resources
 
